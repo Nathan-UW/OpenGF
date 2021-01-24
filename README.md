@@ -13,4 +13,4 @@ Challenging areas of Test I
 Challenging areas of Test II
 ![img](Imgs/figtest2.png)
 
-The OpenGF Dataset is built upon [AHN3](https://downloads.pdok.nl/ahn3-downloadpage/), [Opentopography](https://portal.opentopography.org/datasets), [Ontario Point Cloud](https://geohub.lio.gov.on.ca/datasets/adf19376eecd4440a4579a73abe490f5)
+The data source of OpenGF comes from [AHN3](https://downloads.pdok.nl/ahn3-downloadpage/), [Opentopography](https://portal.opentopography.org/datasets), [Ontario Point Cloud](https://geohub.lio.gov.on.ca/datasets/adf19376eecd4440a4579a73abe490f5)
