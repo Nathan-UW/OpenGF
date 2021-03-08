@@ -36,4 +36,6 @@ Please consider citing our paper:
 
 ## Related projects
 
-[Toronto-3D](https://github.com/WeikaiTan/Toronto-3D) ![Github](https://img.shields.io/github/stars/WeikaiTan/Toronto-3D?style=social)
+[3D-Terrain-Recognition: Deep fusion of multi-view and multimodal representation of ALS point cloud for 3D terrain scene recognition](https://github.com/Nathan-UW/3D-Terrain-Recognition) ![Github](https://img.shields.io/github/stars/Nathan-UW/3D-Terrain-Recognition?style=social)
+[Toronto-3D: A Large-scale Mobile LiDAR Dataset for Semantic Segmentation of Urban Roadways](https://github.com/WeikaiTan/Toronto-3D) ![Github](https://img.shields.io/github/stars/WeikaiTan/Toronto-3D?style=social)
+
