@@ -24,7 +24,7 @@ The data source of OpenGF comes from [AHN3](https://downloads.pdok.nl/ahn3-downl
 
 ## Citation
 
-Please consider citing our paper:
+If it is helpful for your work, please consider citing our paper:
 
     @article{qin2021opengf,
         title = {OpenGF: An Ultra-Large-Scale Ground Filtering Dataset Built Upon Open ALS Point Clouds Around the World},
