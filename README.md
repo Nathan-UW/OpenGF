@@ -1,38 +1,22 @@
 # OpenGF: An Ultra-Large-Scale Ground Filtering Dataset Built Upon Open ALS Point Clouds Around the World
-[![arXiv](https://img.shields.io/badge/arXiv-2101.09641-b31b1b.svg)](https://arxiv.org/abs/2101.09641)
+
+![Image](Imgs/figexample.png)
 
 **OpenGF: An Ultra-Large-Scale Ground Filtering Dataset Built Upon Open ALS Point Clouds Around the World** <br />
 Nannan Qin, Weikai Tan, Lingfei Ma, Dedong Zhang, Jonathan Li* <br />
-**[[Paper](https://arxiv.org/abs/2101.09641)] [[Homepage](https://uwaterloo.ca/geospatial-sensing/)][[Download]()]** <br />
-
-Details on the dataset can be found at **CVPRW2021**. 
+[**[Paper]**](https://arxiv.org/abs/2101.09641) [**[Download]**](#download) <br />
+OpenGF is an Ultra-Large-Scale Ground Filtering dataset covering over 47 km<sup>2</sup> built upon open ALS point clouds of 4 different countries around the world. It not only includes more than half a billion finely labeled ground and non-ground points, but also contains 9 different terrain scenes. <br />
+Details on the dataset can be found at **CVPRW2021**. <br />
 
 If you have questions, or any suggestions to help us improve the dataset, please contact [Nannan Qin](mailto:n7qin@uwaterloo.ca).
 
 ---
 ## <a name="download"></a> Download
 
-Dataset can be downloaded at [GoogleDrive](https://1drv.ms/u/s!Amlc6yZnF87psX6hKS8VOQllVvj4?e=yWhrYX) or [百度网盘](https://pan.baidu.com/s/16FVZqPU-I56rFRrGWoaxXA)(提取码：aewp).
-Check [Changelog](#changelog) for changes.
-
-### Overview
-OpenGF is an Ultra-Large-Scale Ground Filtering dataset covering over 47 km<sup>2</sup> built upon open ALS point clouds of 4 different countries around the world. It not only includes more than half a billion finely labeled ground and non-ground points, but also contains 9 different terrain scenes. The dataset will be released at Google Drive and 百度网盘 soon. <br />
-
-**Currently, we are testing the dataset again to make sure there are no problems in our release version!**
-
-An example of OpenGF
-![img](Imgs/figexample.png)
-
-Typical samples belonging to 9 different terrain scenes
-![img](Imgs/figsample.png)
-
-Challenging areas of Test I
-![img](Imgs/figtest1.png)
-
-Challenging areas of Test II
-![img](Imgs/figtest2.png)
-
-The data source of OpenGF comes from [AHN3](https://downloads.pdok.nl/ahn3-downloadpage/), [Opentopography](https://portal.opentopography.org/datasets), and [Ontario Point Cloud](https://geohub.lio.gov.on.ca/datasets/adf19376eecd4440a4579a73abe490f5).
+Dataset can be downloaded at [GoogleDrive](https://drive.google.com/file/d/1AFPTzUMyNSTMg_NHF5ilJuG6zLT_UA9T/view?usp=sharing) or [百度网盘](https://pan.baidu.com/s/16FVZqPU-I56rFRrGWoaxXA)(提取码：aewp). <br />
+Check [Changelog](#changelog) for changes. <br />
+OpenGF belongs to [Mobile Sensing and Geodata Science Lab](https://uwaterloo.ca/mobile-sensing/), University of Waterloo.  
+OpenGF contains information licensed under the Open Government Licence – Ontario, the CC BY 4.0 & the CC BY-SA 4.0 Licence. Part of this work is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 1948997, 1948994 & 1948857.
 
 ## Citation
 
@@ -47,6 +31,7 @@ If it is helpful for your work, please consider citing our paper:
 
 ---
 ## <a name="changelog"></a> Changelog 
+* 11/04/2021: The dataset is available for download!
 * 08/04/2021: The OpenGF has been accepted by CVPRW 2021!
 
 
