@@ -5,6 +5,16 @@
 Nannan Qin, Weikai Tan, Lingfei Ma, Dedong Zhang, Jonathan Li* <br />
 **[[Paper](https://arxiv.org/abs/2101.09641)] [[Homepage](https://uwaterloo.ca/geospatial-sensing/)][[Download]()]** <br />
 
+Details on the dataset can be found at **CVPRW2021**. 
+
+If you have questions, or any suggestions to help us improve the dataset, please contact [Nannan Qin](mailto:n7qin@uwaterloo.ca).
+
+---
+## <a name="download"></a> Download
+
+Dataset can be downloaded at [GoogleDrive](https://1drv.ms/u/s!Amlc6yZnF87psX6hKS8VOQllVvj4?e=yWhrYX) or [百度网盘](https://pan.baidu.com/s/16FVZqPU-I56rFRrGWoaxXA)(提取码：aewp).
+Check [Changelog](#changelog) for changes.
+
 ### Overview
 OpenGF is an Ultra-Large-Scale Ground Filtering dataset covering over 47 km<sup>2</sup> built upon open ALS point clouds of 4 different countries around the world. It not only includes more than half a billion finely labeled ground and non-ground points, but also contains 9 different terrain scenes. The dataset will be released at Google Drive and 百度网盘 soon. <br />
 
@@ -35,7 +45,8 @@ If it is helpful for your work, please consider citing our paper:
         year = {2021}
     }
 
-### Updates
+---
+## <a name="changelog"></a> Changelog 
 * 08/04/2021: The OpenGF has been accepted by CVPRW 2021!
 
 
