@@ -10,14 +10,12 @@ Details on the dataset can be found at [CVPRW2021](https://arxiv.org/abs/2101.09
 
 If you have questions, or any suggestions to help us improve the dataset, please contact [Nannan Qin](mailto:n7qin@uwaterloo.ca).
 
----
 ## <a name="download"></a> Download
 
 Dataset can be downloaded at [GoogleDrive](https://drive.google.com/file/d/1AFPTzUMyNSTMg_NHF5ilJuG6zLT_UA9T/view?usp=sharing) or [百度网盘](https://pan.baidu.com/s/140_-W3pe1IuToVfCN3qndQ)(提取码：ybw4). Check [Changelog](#changelog) for changes. <br />
 
 OpenGF contains information licensed under the Open Government Licence – Ontario, the CC BY 4.0 & the CC BY-SA 4.0 Licence. Part of this work is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 1948997, 1948994 & 1948857.
 
----
 ## <a name="tip"></a> Data preparation tip
 Coming soon...
 
@@ -33,11 +31,9 @@ If it is helpful for your work, please consider citing our paper:
         year = {2021}
     }
 
----
 ## <a name="changelog"></a> Changelog 
 * 11/04/2021: The dataset is available for download!
 * 08/04/2021: The OpenGF has been accepted by CVPRW 2021!
-
 
 ## Related projects
 1. [3D-Terrain-Recognition: Deep fusion of multi-view and multimodal representation of ALS point cloud for 3D terrain scene recognition](https://github.com/Nathan-UW/3D-Terrain-Recognition) ![GitHub stars](https://img.shields.io/github/stars/Nathan-UW/3D-Terrain-Recognition.svg?style=flat&label=Star)
