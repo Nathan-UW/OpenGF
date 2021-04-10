@@ -4,9 +4,10 @@
 **OpenGF: An Ultra-Large-Scale Ground Filtering Dataset Built Upon Open ALS Point Clouds Around the World**
 Nannan Qin, Weikai Tan, Lingfei Ma, Dedong Zhang, Jonathan Li*
 
-**[[Paper](https://arxiv.org/abs/2101.09641)] [[Homepage](https://uwaterloo.ca/geospatial-sensing/)]**
+**[[Paper](https://arxiv.org/abs/2101.09641)] [[Homepage](https://uwaterloo.ca/geospatial-sensing/)][[Download]()]**
 
-OpenGF is an Ultra-Large-Scale Ground Filtering dataset covering over 47 km<sup>2</sup> built upon open ALS point clouds of 4 different countries around the world. It not only includes more than half a billion finely labeled ground and non-ground points, but also contains 9 different terrain scenes. The dataset will be released at Google Drive and 百度网盘 soon. **Currently, we are preparing the dataset, please stay tuned! Thanks a lot!**
+OpenGF is an Ultra-Large-Scale Ground Filtering dataset covering over 47 km<sup>2</sup> built upon open ALS point clouds of 4 different countries around the world. It not only includes more than half a billion finely labeled ground and non-ground points, but also contains 9 different terrain scenes. 
+The dataset will be released at Google Drive and 百度网盘 soon. **Currently, we are testing the dataset again to make sure there are no problems in our release version**
 
 An example of OpenGF
 ![img](Imgs/figexample.png)
@@ -29,10 +30,13 @@ If it is helpful for your work, please consider citing our paper:
     @article{qin2021opengf,
         title = {OpenGF: An Ultra-Large-Scale Ground Filtering Dataset Built Upon Open ALS Point Clouds Around the World},
         author = {Qin, Nannan and Tan, Weikai and Ma, Lingfei and Zhang, Dedong and Li, Jonathan},
-        year = {2021},
-        archivePrefix = {arXiv},
-        eprint = {2101.09641},
+        booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
+        year = {2021}
     }
+
+### Updates
+* 08/04/2021: The OpenGF has been accepted by CVPRW 2021!
+
 
 ## Related projects
 1. [3D-Terrain-Recognition: Deep fusion of multi-view and multimodal representation of ALS point cloud for 3D terrain scene recognition](https://github.com/Nathan-UW/3D-Terrain-Recognition) ![GitHub stars](https://img.shields.io/github/stars/Nathan-UW/3D-Terrain-Recognition.svg?style=flat&label=Star)
