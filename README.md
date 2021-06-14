@@ -17,7 +17,7 @@ Dataset can be downloaded at [GoogleDrive](https://drive.google.com/file/d/1AFPT
 OpenGF contains information licensed under the Open Government Licence – Ontario, the CC BY 4.0 & the CC BY-SA 4.0 Licence. Part of this work is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 1948997, 1948994 & 1948857.
 
 ## <a name="tip"></a> Data preparation tip
-Coming soon...
+At present, the point clouds are stored in las files to reduce the storage space as much as possible. If you are not familiar with las format, it is recommended to use professional tools (such as 'CloudCompare') to convert Laz files to common files (such as 'ply') before subsequent processing.
 
 
 ## Citation
