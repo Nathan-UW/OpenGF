@@ -32,8 +32,9 @@ If it is helpful for your work, please consider citing our paper:
     }
 
 ## <a name="changelog"></a> Changelog 
-* 11/04/2021: The dataset is available for download!
-* 08/04/2021: The OpenGF has been accepted by CVPRW 2021!
+* 10/01/2021: The HD Figure 5 in the paper(see Fig_5.docx) has been released to facilitate the visual comparison with new research results!
+* 04/11/2021: The dataset is available for download!
+* 04/08/2021: The OpenGF has been accepted by CVPRW 2021!
 
 ## Related projects
 1. [3D-Terrain-Recognition: Deep fusion of multi-view and multimodal representation of ALS point cloud for 3D terrain scene recognition](https://github.com/Nathan-UW/3D-Terrain-Recognition) ![GitHub stars](https://img.shields.io/github/stars/Nathan-UW/3D-Terrain-Recognition.svg?style=flat&label=Star)
