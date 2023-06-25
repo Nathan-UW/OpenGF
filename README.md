@@ -16,6 +16,31 @@ Dataset can be downloaded at [GoogleDrive](https://drive.google.com/file/d/1AFPT
 
 OpenGF contains information licensed under the Open Government Licence – Ontario, the CC BY 4.0 & the CC BY-SA 4.0 Licence. Part of this work is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 1948997, 1948994 & 1948857.
 
+---
+## <a name="results"></a> Ground filtering results (%)
+
+More results to be added
+
+*Default: point coordinates only*
+
+
+| Method          | OA     | IoU_1   | IoU_2   | RMSE | 
+|------------------|--------|--------|--------|----------|
+| [PTD]       |  94.82 | 0.37 | 91.10 |  89.00    |
+| [PMF]       |  90.63 |  0.51 |  85.22 |  79.62   | 
+| [MCC]       | 96.29 | 0.42 | 93.63 |  91.86   | 
+| [CSF]       | 93.07 | 0.95 |  88.17 |85.64   | 
+| [PointNet++] |  97.58 |  0.25 | 95.75 | 94.68    | 
+| [KPConv] | 97.79 |  0.20 | 96.10 |  95.17 | 
+| [RandLA-Net] |  96.29 | 0.29 | 93.74  |  91.65| 
+| [SCF-Net] |  95.75 | 0.28 |  92.90 |  90.43| 
+
+
+
+---
+## <a name="code"></a> Codes for training your own network
+* [Code for RandLA-Net](https://github.com/WeikaiTan/RandLA-Net.git)
+
 ## <a name="tip"></a> Data preparation tip
 At present, the point clouds are stored in laz files to reduce the storage space as much as possible. If you are not familiar with the laz format, it is recommended to use professional tools (such as 'CloudCompare') to convert laz files to other common files (such as 'ply') before subsequent processing.
 
@@ -24,17 +49,30 @@ At present, the point clouds are stored in laz files to reduce the storage space
 
 If it is helpful for your work, please consider citing our paper:
 
-    @article{qin2021opengf,
-        title = {OpenGF: An Ultra-Large-Scale Ground Filtering Dataset Built Upon Open ALS Point Clouds Around the World},
-        author = {Qin, Nannan and Tan, Weikai and Ma, Lingfei and Zhang, Dedong and Li, Jonathan},
-        booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
-        year = {2021}
-    }
+@inproceedings{qin2021opengf,
+  title={{OpenGF}: An ultra-large-scale ground filtering dataset built upon open {ALS} point clouds around the world},
+  author={Qin, Nannan and Tan, Weikai and Ma, Lingfei and Zhang, Dedong and Li, Jonathan},
+  booktitle={Proc. IEEE Conf. Comput. Vis. Pattern Recog. Workshops},
+  pages={1082--1091},
+  year={2021}
+}
 
-## <a name="changelog"></a> Changelog 
-* 10/01/2021: The HD Figure 5 in the paper(see Fig_5.docx) has been released to facilitate the visual comparison with new research results!
-* 04/11/2021: The dataset is available for download!
-* 04/08/2021: The OpenGF has been accepted by CVPRW 2021!
+@article{qin2023deep,
+  title={Deep learning for filtering the ground from {ALS} point clouds: A dataset,
+evaluations and issues},
+  author={Qin, Nannan and Tan, Weikai and Ma, Lingfei and Zhang, Dedong and Guan, haiyan and Li, Jonathan},
+  journal={ISPRS J. Photogramm. Remote Sens.},
+  volume={202},
+  pages={246--261},
+  year={2023}
+}
+
+## <a name="changelog"></a> Changelog
+* [2023-06-25] A journal extension of this work has been published in ISPRS P&RS! 
+* [2023-02-07] Added code for RandLA-Net
+* [2021-10-01] The HD Figure 5 in the paper(see Fig_5.docx) has been released to facilitate the visual comparison with new research results!
+* [2021-04-11] The dataset is available for download!
+* [2021-04-08] The OpenGF has been accepted by CVPRW 2021!
 
 ## Related projects
 1. [3D-Terrain-Recognition: Deep fusion of multi-view and multimodal representation of ALS point cloud for 3D terrain scene recognition](https://github.com/Nathan-UW/3D-Terrain-Recognition) ![GitHub stars](https://img.shields.io/github/stars/Nathan-UW/3D-Terrain-Recognition.svg?style=flat&label=Star)
