@@ -49,32 +49,24 @@ At present, the point clouds are stored in laz files to reduce the storage space
 
 If it is helpful for your work, please consider citing our paper:
 
-    @inproceedings{tan2020toronto3d,
-        title={{Toronto-3D}: A large-scale mobile lidar dataset for semantic segmentation of urban roadways},
-        author={Tan, Weikai and Qin, Nannan and Ma, Lingfei and Li, Ying and Du, Jing and Cai, Guorong and Yang, Ke and Li, Jonathan},
-        booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
-        pages={202--203},
-        year={2020}
+    @inproceedings{qin2021opengf,
+        title={{OpenGF}: An ultra-large-scale ground filtering dataset built upon open {ALS} point clouds around the world},
+        author={Qin, Nannan and Tan, Weikai and Ma, Lingfei and Zhang, Dedong and Li, Jonathan},
+        booktitle={Proc. IEEE Conf. Comput. Vis. Pattern Recog. Workshops},
+        pages={1082--1091},
+        year={2021}
     }
 
-@inproceedings{qin2021opengf,
-    title={{OpenGF}: An ultra-large-scale ground filtering dataset built upon open {ALS} point clouds around the world},
-    author={Qin, Nannan and Tan, Weikai and Ma, Lingfei and Zhang, Dedong and Li, Jonathan},
-    booktitle={Proc. IEEE Conf. Comput. Vis. Pattern Recog. Workshops},
-    pages={1082--1091},
-    year={2021}
-}
-
-
-@article{qin2023deep,
-    title={Deep learning for filtering the ground from {ALS} point clouds: A dataset,
+    @article{qin2023deep,
+        title={Deep learning for filtering the ground from {ALS} point clouds: A dataset,
 evaluations and issues},
-    author={Qin, Nannan and Tan, Weikai and Ma, Lingfei and Zhang, Dedong and Guan, haiyan and Li, Jonathan},
-    journal={ISPRS J. Photogramm. Remote Sens.},
-    volume={202},
-    pages={246--261},
-    year={2023}
-}
+        author={Qin, Nannan and Tan, Weikai and Ma, Lingfei and Zhang, Dedong and Guan, haiyan and Li, Jonathan},
+        journal={ISPRS J. Photogramm. Remote Sens.},
+        volume={202},
+        pages={246--261},
+        year={2023}
+    }    
+
 
 ## <a name="changelog"></a> Changelog
 * [2023-06-25] A journal extension of this work has been published in ISPRS P&RS! 
