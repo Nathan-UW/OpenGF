@@ -2,7 +2,7 @@
 
 ![Image](Imgs/figexample.png)
 
-[**[Paper]**](https://arxiv.org/abs/2101.09641) [**[Project page]**](https://uwaterloo.ca/mobile-sensing/) [**[Download]**](#download) <br />
+[**[Paper]**](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Qin_OpenGF_An_Ultra-Large-Scale_Ground_Filtering_Dataset_Built_Upon_Open_ALS_CVPRW_2021_paper.html) [**[Download]**](#download) [**[Results]**](#results) [**[Codes]**](#code)
 
 OpenGF is an Ultra-Large-Scale Ground Filtering dataset covering over 47 km<sup>2</sup> built upon open ALS point clouds of 4 different countries around the world. It not only includes more than half a billion finely labeled ground and non-ground points, but also contains 9 different terrain scenes. <br />
 
