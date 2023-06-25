@@ -49,6 +49,13 @@ At present, the point clouds are stored in laz files to reduce the storage space
 
 If it is helpful for your work, please consider citing our paper:
 
+    @inproceedings{tan2020toronto3d,
+        title={{Toronto-3D}: A large-scale mobile lidar dataset for semantic segmentation of urban roadways},
+        author={Tan, Weikai and Qin, Nannan and Ma, Lingfei and Li, Ying and Du, Jing and Cai, Guorong and Yang, Ke and Li, Jonathan},
+        booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
+        pages={202--203},
+        year={2020}
+    }
 
 @inproceedings{qin2021opengf,
     title={{OpenGF}: An ultra-large-scale ground filtering dataset built upon open {ALS} point clouds around the world},
