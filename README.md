@@ -58,8 +58,7 @@ If it is helpful for your work, please consider citing our paper:
     }
 
     @article{qin2023deep,
-        title={Deep learning for filtering the ground from {ALS} point clouds: A dataset,
-evaluations and issues},
+        title={Deep learning for filtering the ground from {ALS} point clouds: A dataset, evaluations and issues},
         author={Qin, Nannan and Tan, Weikai and Ma, Lingfei and Zhang, Dedong and Guan, haiyan and Li, Jonathan},
         journal={ISPRS J. Photogramm. Remote Sens.},
         volume={202},
