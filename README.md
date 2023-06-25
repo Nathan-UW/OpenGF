@@ -17,14 +17,14 @@ Dataset can be downloaded at [GoogleDrive](https://drive.google.com/file/d/1AFPT
 OpenGF contains information licensed under the Open Government Licence – Ontario, the CC BY 4.0 & the CC BY-SA 4.0 Licence. Part of this work is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 1948997, 1948994 & 1948857.
 
 ---
-## <a name="results"></a> Ground filtering results (%)
+## <a name="results"></a> Ground filtering results 
 
 More results to be added
 
 *Default: point coordinates only*
 
 
-| Method          | OA     | IoU_1   | IoU_2   | RMSE | 
+| Method          | OA(%)    | RMSE(m) | IoU<sub>1</sub>(%)   | IoU<sub>2</sub>(%)    | 
 |------------------|--------|--------|--------|----------|
 | [PTD]       |  94.82 | 0.37 | 91.10 |  89.00    |
 | [PMF]       |  90.63 |  0.51 |  85.22 |  79.62   | 
@@ -49,22 +49,24 @@ At present, the point clouds are stored in laz files to reduce the storage space
 
 If it is helpful for your work, please consider citing our paper:
 
+
 @inproceedings{qin2021opengf,
-  title={{OpenGF}: An ultra-large-scale ground filtering dataset built upon open {ALS} point clouds around the world},
-  author={Qin, Nannan and Tan, Weikai and Ma, Lingfei and Zhang, Dedong and Li, Jonathan},
-  booktitle={Proc. IEEE Conf. Comput. Vis. Pattern Recog. Workshops},
-  pages={1082--1091},
-  year={2021}
+    title={{OpenGF}: An ultra-large-scale ground filtering dataset built upon open {ALS} point clouds around the world},
+    author={Qin, Nannan and Tan, Weikai and Ma, Lingfei and Zhang, Dedong and Li, Jonathan},
+    booktitle={Proc. IEEE Conf. Comput. Vis. Pattern Recog. Workshops},
+    pages={1082--1091},
+    year={2021}
 }
 
+
 @article{qin2023deep,
-  title={Deep learning for filtering the ground from {ALS} point clouds: A dataset,
+    title={Deep learning for filtering the ground from {ALS} point clouds: A dataset,
 evaluations and issues},
-  author={Qin, Nannan and Tan, Weikai and Ma, Lingfei and Zhang, Dedong and Guan, haiyan and Li, Jonathan},
-  journal={ISPRS J. Photogramm. Remote Sens.},
-  volume={202},
-  pages={246--261},
-  year={2023}
+    author={Qin, Nannan and Tan, Weikai and Ma, Lingfei and Zhang, Dedong and Guan, haiyan and Li, Jonathan},
+    journal={ISPRS J. Photogramm. Remote Sens.},
+    volume={202},
+    pages={246--261},
+    year={2023}
 }
 
 ## <a name="changelog"></a> Changelog
