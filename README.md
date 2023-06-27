@@ -8,7 +8,7 @@ OpenGF is an Ultra-Large-Scale Ground Filtering dataset covering over 47 km<sup>
 
 Details on the dataset can be found at [CVPRW2021](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Qin_OpenGF_An_Ultra-Large-Scale_Ground_Filtering_Dataset_Built_Upon_Open_ALS_CVPRW_2021_paper.html). <br />
 
-If you have questions, or any suggestions to help us improve the dataset, please contact [Nannan Qin](mailto:n7qin@uwaterloo.ca).
+If you have questions, or any suggestions to help us improve the dataset, please contact [Nannan Qin](mailto:nnqin@nuist.edu.cn).
 
 ## <a name="download"></a> Download
 
