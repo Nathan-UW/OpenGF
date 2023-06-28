@@ -12,7 +12,7 @@ If you have questions, or any suggestions to help us improve the dataset, please
 
 ## <a name="download"></a> Download
 
-Dataset can be downloaded at [GoogleDrive](https://drive.google.com/file/d/1AFPTzUMyNSTMg_NHF5ilJuG6zLT_UA9T/view?usp=sharing) or [百度网盘](https://pan.baidu.com/s/1WWDfyXoZWJP32nXfWDrvWQ)(提取码：rncj). Check [Changelog](#changelog) for changes. <br />
+Dataset can be downloaded at [GoogleDrive](https://drive.google.com/drive/folders/1ud3fuiaNGHBiTVmIg36mrDarz-zzCzID?usp=sharing) or [百度网盘](https://pan.baidu.com/s/1WWDfyXoZWJP32nXfWDrvWQ)(提取码：rncj). Check [Changelog](#changelog) for changes. <br />
 
 OpenGF contains information licensed under the Open Government Licence – Ontario, the CC BY 4.0 & the CC BY-SA 4.0 Licence. Part of this work is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 1948997, 1948994 & 1948857.
 
