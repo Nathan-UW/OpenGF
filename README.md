@@ -38,8 +38,8 @@ Results on Test I
 
 
 ---
-## <a name="code"></a> Codes for training your own network
-* [Code for RandLA-Net](https://github.com/WeikaiTan/RandLA-Net.git)
+## <a name="code"></a> Codes for training your own data
+* [RandLA-Net](https://github.com/WeikaiTan/RandLA-Net.git)
 
 ## <a name="tip"></a> Data preparation tip
 At present, the point clouds are stored in laz files to reduce the storage space as much as possible. If you are not familiar with the laz format, it is recommended to use professional tools (such as 'CloudCompare') to convert laz files to other common files (such as 'ply') before subsequent processing.
