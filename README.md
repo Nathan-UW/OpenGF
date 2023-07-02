@@ -75,7 +75,8 @@ If it is helpful for your work, please consider citing our paper:
 * [2021-04-08] The OpenGF has been accepted by CVPRW 2021!
 
 ## Related projects
-1. [3D-Terrain-Recognition: Deep fusion of multi-view and multimodal representation of ALS point cloud for 3D terrain scene recognition](https://github.com/Nathan-UW/3D-Terrain-Recognition) ![GitHub stars](https://img.shields.io/github/stars/Nathan-UW/3D-Terrain-Recognition.svg?style=flat&label=Star)
-2. [VPNet-CRF: Semantic Labeling of ALS Point Cloud via Learning Voxel and Pixel Representations](https://github.com/Nathan-UW/VPNet) ![GitHub stars](https://img.shields.io/github/stars/Nathan-UW/VPNet.svg?style=flat&label=Star)
+1. [3D-Terrain-Recognition: Deep fusion of multi-view and multimodal representation of ALS point cloud for 3D terrain scene recognition](https://github.com/Nathan-UW/3D-Terrain-Recognition) 
+2. [VPNet-CRF: Semantic Labeling of ALS Point Cloud via Learning Voxel and Pixel Representations](https://github.com/Nathan-UW/VPNet)
+3. [Towards-Intelligent-GF: A Comprehensive Survey](https://github.com/Nathan-UW/Towards-Intelligent-GF)
 4. [Toronto-3D: A Large-scale Mobile LiDAR Dataset for Semantic Segmentation of Urban Roadways](https://github.com/WeikaiTan/Toronto-3D) ![Github](https://img.shields.io/github/stars/WeikaiTan/Toronto-3D.svg?style=flat&label=Star)
 
