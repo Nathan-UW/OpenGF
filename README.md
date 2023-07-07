@@ -27,13 +27,14 @@ Results on Test I
 | Method          | OA(%)    | RMSE(m) | IoU<sub>1</sub>(%)   | IoU<sub>2</sub>(%)    | 
 |------------------|--------|--------|--------|----------|
 | [PTD]       |  94.82 | 0.37 | 91.10 |  89.00    |
-| [PMF]       |  90.63 |  0.51 |  85.22 |  79.62   | 
-| [MCC]       | 96.29 | 0.42 | 93.63 |  91.86   | 
-| [CSF]       | 93.07 | 0.95 |  88.17 |85.64   | 
-| [PointNet++] |  97.58 |  0.25 | 95.75 | 94.68    | 
-| [KPConv] | 97.79 |  0.20 | 96.10 |  95.17 | 
-| [RandLA-Net] |  96.29 | 0.29 | 93.74  |  91.65| 
-| [SCF-Net] |  95.75 | 0.28 |  92.90 |  90.43| 
+| [PMF](https://pdal.io)       |  90.63 |  0.51 |  85.22 |  79.62   | 
+| [MCC](http://sourceforge.net/projects/mccLiDAR/develop)      | 96.29 | 0.42 | 93.63 |  91.86   | 
+| [CSF](https://www.cloudcompare.org)        | 93.07 | 0.95 |  88.17 |85.64   | 
+| [PointNet++](https://github.com/intel-isl/Open3D-PointNet2-Semantic3D) |  97.58 |  0.25 | 95.75 | 94.68    | 
+| [DGCNN](https://github.com/AnTao97/dgcnn.pytorch) |  96.34 |  0.41 | 93.78 | 91.81    | 
+| [KPConv](https://github.com/HuguesTHOMAS/KPConv) | 97.79 |  0.20 | 96.10 |  95.17 | 
+| [RandLA-Net](https://github.com/QingyongHu/RandLA-Net) |  96.29 | 0.29 | 93.74  |  91.65| 
+| [SCF-Net](https://github.com/leofansq/SCF-Net) |  95.75 | 0.28 |  92.90 |  90.43| 
 
 
 
