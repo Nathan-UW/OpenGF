@@ -69,7 +69,7 @@ If it is helpful for your work, please consider citing our paper:
 
 
 ## <a name="changelog"></a> Changelog
-* [2023-11-11] A comprehensive survey based on this work has been accepted by JAG! 
+* [2023-11-11] [A comprehensive survey](https://github.com/Nathan-UW/Towards-Intelligent-GF) based on this work has been accepted by JAG! 
 * [2023-06-25] A journal extension of this work has been published in ISPRS P&RS! 
 * [2023-02-07] Added code for RandLA-Net
 * [2021-10-01] The HD Figure 5 in the paper(see Fig_5.docx) has been released to facilitate the visual comparison with new research results!
