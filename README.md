@@ -69,6 +69,7 @@ If it is helpful for your work, please consider citing our paper:
 
 
 ## <a name="changelog"></a> Changelog
+* [2026-05-06] [A novel GF framework](https://github.com/Nathan-UW/SparseGF) addressing the challenges highlighted in our comprehensive survey has been announced on arXiv
 * [2023-11-11] [A comprehensive survey](https://github.com/Nathan-UW/Towards-Intelligent-GF) based on this work has been accepted by JAG! 
 * [2023-06-25] A journal extension of this work has been published in ISPRS P&RS! 
 * [2023-02-07] Added code for RandLA-Net
